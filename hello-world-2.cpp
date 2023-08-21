@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdio>
 
-int main(void){
+static int hello(void){
   printf("Hello World 2! \n");
   return 0;
 }
